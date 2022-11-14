@@ -10,4 +10,4 @@ const scraper = require("./src/scrapers/scraper");
            scraper()
           }
       );
-})()
+})();
